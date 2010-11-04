@@ -1,7 +1,10 @@
 /*
  *	Prime Generator
  *	Ignore even numbers, multiples of 5 and only 6k+1 and 6k+5 numbers are primes.
- *	17 numbers per byte
+ *	Haven't gotten around to that yet.
+ *	17 numbers per byte. This either.
+ * 	Another guy somewhere has a similar macro structure/sieve. I can't find the link
+ *	now but if you do/you are that guy, let me know and I'll credit.
  *
  */
 #include <stdio.h>
